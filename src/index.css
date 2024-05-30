@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.section{margin-top: 50px;}
+/* NAVBAR */
+.header .navbar{padding: 20px;}
+.search-ip{position: relative;width: 40%;padding: 10px;border: 1px solid #3b82f6;background-color: #fff;}
+.search-ip input{border: none;}
+.serch-icon{position: absolute;top: 0;right: 0;bottom: 0;display: flex;align-items: center;background: #3b82f6;width: 13%;place-items: center;}
+
+/* HOME */
+.home-section{background-color: #e3edf6;}
+.banner-content{width: 70%;}
+.danger{color: red;}
+.shop-btn{border: none;padding: 10px 20px;background-color: #fff;border-radius: 7px;}
+
+/* DELIVERY */
+.card{width: 100%;}
+.card01{background-color: #f3f4f6;border: none;}
+
+/* TREND-CARD */
+.add-to{background-color: #ec4899;padding: 10px 20px;border-radius: 10px;}
+
+/* TREDING */
+.Treding-page{display: grid;grid-template-columns: 1fr 1fr 1fr 1fr;grid-gap: 10px;}
+
+/* OFFR-GRAB */
+.grap-offr{background-color: #e3edf6;}
+
+/* FOOTER  */
+.footer-sectn{background-color: #3b82f6;}
+
